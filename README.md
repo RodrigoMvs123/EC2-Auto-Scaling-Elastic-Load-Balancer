@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=cf9jQc4xzpo
 
+https://raw.githubusercontent.com/RodrigoMvs123/EC2-Auto-Scaling-Elastic-Load-Balancer/main/README.md
+
+
+
 ##
 
 https://aws.amazon.com/pt/ec2/autoscaling/
