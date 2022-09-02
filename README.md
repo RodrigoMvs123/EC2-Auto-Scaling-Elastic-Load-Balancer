@@ -44,6 +44,7 @@ from urllib import response
 from requests import get 
 
 DOMAIN = 'ec2-3-86-207-211.compute-1.amazonaws.com'
+#'as1-1-900100220.us-east-1.elb.amazonaws.com'
 
 def send_request(val):
     while True:
