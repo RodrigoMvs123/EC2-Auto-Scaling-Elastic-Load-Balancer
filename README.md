@@ -3,6 +3,10 @@
 https://www.youtube.com/watch?v=cf9jQc4xzpo
 
 ##
+
+https://aws.amazon.com/pt/ec2/autoscaling/
+
+##
 dynamic-website-scaling
 
 const fs = require('node:fs/promises');
