@@ -33,6 +33,25 @@ app.listen(3000);
 
 ##
 
+Send-request.py
+from multiprocessing import pool
+from urllib import response
+
+from requests import get 
+
+DOMAIN = 'ec2-3-86-207-211.compute-1.amazonaws.com'
+
+def send_request(val):
+    while True:
+        response = get(f'https://{DOMAIN}')
+        data = response.json()
+        print('Sent request')
+        print(data)
+
+if __name__ == '__main__':
+    with Pool(150) as p:
+        p.map(send_request, range(150))
+
 userdata-with-caching.sh
 #!/bin/bash
 
