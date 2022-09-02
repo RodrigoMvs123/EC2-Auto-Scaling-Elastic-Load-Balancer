@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=cf9jQc4xzpo
 
 https://raw.githubusercontent.com/RodrigoMvs123/EC2-Auto-Scaling-Elastic-Load-Balancer/main/README.md
 
-
+https://github.com/RodrigoMvs123/EC2-Auto-Scaling-Elastic-Load-Balancer/blame/main/README.md
 
 ##
 
